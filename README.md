@@ -1,7 +1,7 @@
 # VAARTA
 
 **Real-Time Multilingual Voice Translation System**
-*by Neer Dwivedi, Shubhashish Garimella & Avichal Trivedi*
+*by Neer Dwivedi, Shubhashish Garimella & Avichal Trivedi*.
 
 ---
 
